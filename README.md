@@ -57,6 +57,8 @@ MARKDOWN_IN_DEVONTHINK=False
 PDF_IN_DEVONTHINK=True
 ```
 
+**To install**, unzip the downloaded file and then double-click on `Literature Linker.alfredworkflow`. Complete the installation in Alfred.
+
 **Important:**
 
 Your Zotero library must be auto-exported using **Better CSL JSON** format with `Keep updated` enabled.
